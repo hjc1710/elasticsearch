@@ -77,3 +77,5 @@ Elasticsearch provides the following predefined list of languages:
 `_swedish_`, `_thai_`, `_turkish_`.
 
 For the empty stopwords list (to disable stopwords) use: `_none_`.
+
+The list of default stop words for each language can be found below:
